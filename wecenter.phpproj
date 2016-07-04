@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -244,7 +245,7 @@
     <Compile Include="static\css\default\img\icon-v.png" />
     <Compile Include="static\css\default\img\login_bg.jpg" />
     <Compile Include="static\css\default\img\login_logo.png" />
-    <Compile Include="static\css\default\img\logo.png" />
+    <Compile Include="static\css\default\img\logo.bak.png" />
     <Compile Include="static\css\default\img\logo@402x.png" />
     <Compile Include="static\css\default\img\warmming.png" />
     <Compile Include="static\css\default\img\wechat_code.jpg" />
@@ -2342,5 +2343,8 @@
     <Folder Include="views\default\topic" />
     <Folder Include="views\default" />
     <Folder Include="views" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="static\css\default\img\logo.png" />
   </ItemGroup>
 </Project>
