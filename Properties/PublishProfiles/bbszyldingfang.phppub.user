@@ -5515,6 +5515,9 @@
     <File Include="views/default/block/sidebar_announce.tpl.htm">
       <publishTime>07/04/2016 10:01:39</publishTime>
     </File>
+    <File Include="views/default/block/sidebar_baidu_advert.tpl.htm">
+      <publishTime>09/17/2016 02:43:00</publishTime>
+    </File>
     <File Include="views/default/block/sidebar_feature.tpl.htm">
       <publishTime>07/04/2016 10:01:39</publishTime>
     </File>
@@ -5537,7 +5540,7 @@
       <publishTime>07/04/2016 10:01:39</publishTime>
     </File>
     <File Include="views/default/explore/index.tpl.htm">
-      <publishTime>07/04/2016 10:01:39</publishTime>
+      <publishTime>09/17/2016 02:59:05</publishTime>
     </File>
     <File Include="views/default/favorite/index.tpl.htm">
       <publishTime>07/04/2016 10:01:39</publishTime>

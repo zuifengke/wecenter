@@ -2346,5 +2346,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="static\css\default\img\logo.png" />
+    <Content Include="views\default\block\sidebar_baidu_advert.tpl.htm" />
   </ItemGroup>
 </Project>
