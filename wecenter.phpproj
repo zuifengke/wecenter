@@ -545,6 +545,7 @@
     <Compile Include="system\class\cls_http.inc.php" />
     <Compile Include="system\class\cls_template.inc.php" />
     <Compile Include="system\config\admin_menu.php" />
+    <Compile Include="system\config\database.php" />
     <Compile Include="system\config\email_message.php" />
     <Compile Include="system\config\image.php" />
     <Compile Include="system\config\notification.php" />

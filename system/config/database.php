@@ -8,7 +8,7 @@ $config['master'] = array (
   'host' => 'localhost',
   'username' => 'root',
   'password' => 'root',
-  'dbname' => 'tech-heren-com',
+  'dbname' => 'bbszyldingfang',
   'port' => '3306',
 );
 $config['slave'] = false;
